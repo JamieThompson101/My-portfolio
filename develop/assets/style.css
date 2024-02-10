@@ -1,0 +1,38 @@
+* {
+    background-color: violet;
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+}
+body {
+    background-color: aliceblue;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.footer {
+padding: 30px;
+clear: both;
+text-align: center;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  
