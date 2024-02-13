@@ -47,4 +47,4 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ##Tests
-URL to the deployed website: [a link](https://github.com/JamieThompson101/My-portfolio/blob/main/develop/index.html)
+URL to the deployed website: [My portfolio](https://jamiethompson101.github.io/My-portfolio/)
