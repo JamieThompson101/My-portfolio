@@ -2,7 +2,7 @@
 
 ##Description:
 
--My motivation for this project was to show off what I've learned thus far in the bootcamp program. And what better way to do so than by creating a website from scratch based off of my skills?
+-My motivation for this project was to show off what I've learned thus far in the bootcamp program. And what better way to do so than by creating a website from scratch based off of my skills.
 
 -I created this project to become more familiar with CSS and HTML elements and how they interact to compose a website.
 
